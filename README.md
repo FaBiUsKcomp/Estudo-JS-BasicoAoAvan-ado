@@ -1,4 +1,4 @@
-# Estudos JavaScript do Básico ao Avançado
+# Estudos JavaScript do Básico ao Avançado ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNEB2SOdj6ky27gf0x28adrpMXIj-dhLTgcroFYfPnsbjh7r9-)
 
 ## Descrição:
 
