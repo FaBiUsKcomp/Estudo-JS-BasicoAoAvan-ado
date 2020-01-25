@@ -3,3 +3,11 @@
 ## Descrição:
 
 - Neste repositório estão presentes tudo sobre meus estudos de JavaScript, possui códigos muito básicos, até códigos muito avançados, e também todo o conteúdo com padrão EcmaScript 2015.
+
+## Conhecimentos Adquiridos:
+ - Fundamentos
+ - Estruturas de Controle
+ - Funções
+ - Arrays
+ - Objeto
+ - Manipulação do DOM
